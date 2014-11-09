@@ -1,0 +1,15 @@
+JE NLSFUNC AKTIVNI ? (1/0)
+N CHKNLS.COM
+A 100
+MOV AX,1400
+INT 2F
+AND AL,1
+MOV AH,4C
+INT 21
+
+R CX 
+B
+W
+Q
+
+ 

@@ -1,0 +1,22 @@
+                            Dulezite informace :
+ - Kliknutim na ikonu ,nebo stiskem prislusne klavesy (je zobrazena nad ikonou)
+   ziskate informace z prislusneho tematu (pod ikonou).
+
+ - Program ukoncite kliknutim na ikonu pod hodinami (Ikona "dvere").
+
+ - Kliknuti pravym tlacitkem zobrazi v dolnim ramecku malou napovedu.
+
+ - Stiskem klavesy F10 v informacnim okne muzete rychleji ukoncit program.
+
+ - Pokud nemate v dispozici mys ,je mozne ovladat program na klavesnici.
+
+ - Tento program ziskava vetsinu informaci z pameti CMOS ,takze pokud v ni
+   mate nektere parametry spatne nastavene bude je tento program zobrazovat
+   stejne.
+
+ - Tento program byl navrhovan pro grafickou kartu VGA+ ,proto na starsich
+   grafickych kartach nemusi bezet tak ,jak by mel.
+
+ - Muze se stat ,ze na pomalejsich pocitacich se budou kontrolky stavu
+   funkcnich klaves (Ctrl ,Shift , ...) "zasekavat".
+컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴
